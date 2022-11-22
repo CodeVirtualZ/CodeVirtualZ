@@ -62,6 +62,8 @@ Hi there ✋ welcome to my GitHub. <br>
   </tr>
 </table>
 
+##
+<img src="https://komarev.com/ghpvc/?username=CodeVirtualZ&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <!--
 **CodeVirtualZ/CodeVirtualZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
