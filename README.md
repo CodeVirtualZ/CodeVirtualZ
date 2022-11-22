@@ -31,7 +31,7 @@
       <br>ASP.NET
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/>
       <br>MySQL
     </td>
     <td align="center" width="96">
