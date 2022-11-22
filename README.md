@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My favorite tools and technologies ⚙️
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,github,)](https://skillicons.dev)
+
 <!--
 **CodeVirtualZ/CodeVirtualZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
