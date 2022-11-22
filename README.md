@@ -62,6 +62,9 @@ Hi there ✋ welcome to my GitHub. <br>
   </tr>
 </table>
 
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeVirtualZ&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
 ##
 <img src="https://komarev.com/ghpvc/?username=CodeVirtualZ&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <!--
