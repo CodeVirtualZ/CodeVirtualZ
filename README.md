@@ -1,6 +1,6 @@
 <p align="justify"> 
 Hi there ✋ welcome to my GitHub. <br>
-- 🔭 I am currently working as a Consultant in Business and Technology Consulting Department at Freewill Solutions Co., Ltd.
+🔭 I am currently working as a Consultant in Business and Technology Consulting Department at Freewill Solutions Co., Ltd.
 </p>
 
 ## My favorite tools and technologies ⚙️ 
