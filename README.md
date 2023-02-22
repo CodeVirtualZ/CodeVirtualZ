@@ -56,8 +56,16 @@ Hi there ✋ welcome to my GitHub. <br>
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="mysql" />
+        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
       <br>Discord
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pug" width="48" height="48" alt="Pug" />
+      <br>Pug
     </td>
   </tr>
 </table>
