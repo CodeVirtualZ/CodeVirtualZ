@@ -1,6 +1,6 @@
 <p align="justify"> 
 Hi there ✋ welcome to my GitHub. <br>
-🔭 I am currently working as a Consultant in Business and Technology Consulting Department.
+🔭 I am currently working in the Innovative Integrated Platform (I2P) as a full-stack developer.
 </p>
 
 ## My favorite tools and technologies ⚙️ 
